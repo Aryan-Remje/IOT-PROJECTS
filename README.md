@@ -35,7 +35,6 @@ All project source code, the required files for each project, and their document
 ```text
 IOT-MICRO-PROJECT/
 ├── projects/      # Individual IoT projects, each with its own code and docs
-├── docs/          # Wiring diagrams, notes, and reference material
 ├── lib/           # Shared drivers and helper code
 └── README.md
 ```
