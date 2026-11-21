@@ -12,6 +12,5 @@
 
 ## ⚡ Introduction
 
-> **IOT-MICRO-PROJECT** ek chhoti-chhoti IoT builds ka collection hai: microcontrollers jo sensors padhte hain, network par baat karte hain, aur data se kuch useful karte hain.
-
-Har project jaan-boojh kar chhota rakha gaya hai taaki use banana, samajhna aur aage badhana aasan ho.
+> **IOT-MICRO-PROJECT** is a collection of small Internet-of-Things builds: microcontrollers that read sensors, communicate over the network, and do something useful with the data.
+Each project is kept intentionally small so it's easy to build, understand, and extend.
