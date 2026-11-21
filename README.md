@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=220&section=header&text=IOT-MICRO-PROJECT&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="IOT-MICRO-PROJECT banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=Sensing+the+world+one+pin+at+a+time;ESP32+%2B+sensors+%2B+the+cloud;Built+by+Mikkss+%2F+NOCTIS" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=Sensing+the+world+one+pin+at+a+time;ESP32+%2B+sensors+%2B+the+cloud;Built+by+Aaryan" alt="Typing animation" />
 </a>
 
 <br/>
@@ -55,7 +55,7 @@ Open the project's folder in Arduino IDE or PlatformIO, follow the documentation
 
 ## Author
 
-**Mikkss** (Aryan Remje) · Mumbai, India
+**ARYAN REMJE** · Mumbai, India
 
 ---
 
